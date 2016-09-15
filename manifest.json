@@ -1,0 +1,6 @@
+{
+    "short_name": "DSU",
+    "name": "Day Scholar Union",
+    "start_url": "/index.html",
+    "display": "standalone"
+}
