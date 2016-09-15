@@ -1,0 +1,10 @@
+CACHE:
+/index.html
+/stylesheets/reset.css
+/stylesheets/fonts.css
+/stylesheets/style.css
+/assets/images/bg.jpg
+/assets/fonts/FontdinerSwanky.ttf
+
+NETWORK:
+*
